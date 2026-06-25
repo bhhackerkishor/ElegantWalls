@@ -5,7 +5,7 @@ export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://elegantwall
 export const SITE_DESCRIPTION =
   'Premium wall posters, photo frames, canvas prints, wall stickers & custom prints. Design your memory wall with custom sizes. Delivery across India.';
 
-export const WHATSAPP_NUMBER = '919876543210';
+export const WHATSAPP_NUMBER = '918015603293';
 export const SUPPORT_EMAIL = 'elegantwalls.prints@gmail.com';
 export const INSTAGRAM_URL = 'https://www.instagram.com/elgant.walls/';
 
