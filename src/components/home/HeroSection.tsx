@@ -154,7 +154,7 @@ export default function HeroSection() {
 
         <div className="mt-12 flex flex-col sm:flex-row gap-4 justify-center">
           <Link
-            href="/collections"
+            href="/posters"
             className="bg-accent text-white dark:text-background px-10 py-4 rounded-full text-lg font-medium hover:opacity-90 transition-all"
           >
             Shop Collection

@@ -11,30 +11,47 @@ interface TickerItem {
 
 const IMAGES_POOL: TickerItem[] = [
   { 
-    url: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=600', 
-    width: 340, 
+    url: 'https://res.cloudinary.com/drmjevfh8/image/upload/v1782378625/41882703286ef67ccfb8a96db5b395dc_uj43h0.jpg', 
+    width: 130, 
     caption: 'Private Residence, Mumbai — Edition No. 14' 
   },
   { 
-    url: 'https://images.unsplash.com/photo-1598928506311-c55ded91a20c?q=80&w=600', 
-    width: 260, 
+    url: 'https://res.cloudinary.com/drmjevfh8/image/upload/v1782379335/06bf3a428ef9f8733d5493ff98a48334_hx0lck.jpg', 
+    width: 120, 
     caption: 'Atelier Interior Study — Custom Run' 
-  },
+  }
+ 
   { 
-    url: 'https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=600', 
+    url: 'https://res.cloudinary.com/drmjevfh8/image/upload/v1782378420/10d8886dd0d15a6189ff91279ea287d5_yhqscw.jpg', 
     width: 410, 
     caption: 'The Monolithic Series — Spatial Anchor' 
   },
   { 
-    url: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?q=80&w=600', 
+    url: 'https://res.cloudinary.com/drmjevfh8/image/upload/v1782377731/84f9c824f2440c36b79cacdea68855ff_qbpd4l.jpg', 
+    width: 150, 
+    caption: 'Atelier Interior Study — Custom Run' 
+  },
+  { 
+    url: 'https://res.cloudinary.com/drmjevfh8/image/upload/v1782378348/GAME6_9ed13ec5-38c3-47de-a5e9-0234376f6a06_qnkb3i.jpg', 
     width: 290, 
     caption: 'Graphic Expression Study — Gallery Matte' 
   },
+   { 
+    url: 'https://res.cloudinary.com/drmjevfh8/image/upload/v1782378907/11250037_liayyg.webp', 
+    width: 180, 
+    caption: 'Atelier Interior Study — Custom Run' 
+  },
   { 
-    url: 'https://images.unsplash.com/photo-1513519245088-0e12902e5a38?q=80&w=600', 
+    url: 'https://res.cloudinary.com/drmjevfh8/image/upload/v1782239568/elegant-walls/pynuy9x6lels1dcum2nk.webp', 
     width: 320, 
     caption: 'Residential Framing Archetype' 
   },
+  { 
+    url: 'https://res.cloudinary.com/drmjevfh8/image/upload/v1782379089/667446c589c2ef1faf988d30bde72231_t6lb1j.jpg', 
+    width: 120, 
+    caption: 'Atelier Interior Study — Custom Run' 
+  },
+  
 ];
 
 export default function MovingReels() {
